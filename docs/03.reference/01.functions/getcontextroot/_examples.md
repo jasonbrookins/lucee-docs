@@ -1,0 +1,3 @@
+```lucee+trycf
+dump(getContextRoot());
+```
